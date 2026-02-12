@@ -1,0 +1,102 @@
+{
+    "name": "Midnight Neon",
+    "style": "Fusion",
+    "colors": {
+        "DeepVoid": "#13141a",
+        "SoftVoid": "#1e212b",
+        "OverlayGrey": "#323645",
+        "TextWhite": "#c2c2c4",
+        "CommentGrey": "#666c80",
+        
+        "NeonPink": "#ff2a6d",
+        "NeonCyan": "#05d9e8",
+        "NeonGreen": "#00ff9f",
+        "NeonPurple": "#d300c5",
+        "NeonYellow": "#f9c80e",
+        "NeonOrange": "#ff8600",
+        "ElectricBlue": "#2d5bf3",
+        "AlertRed": "#ff003c"
+    },
+    "palette": {
+        "Window": "DeepVoid",
+        "WindowText": "TextWhite",
+        "Base": "DeepVoid",
+        "AlternateBase": "SoftVoid",
+        "ToolTipBase": "SoftVoid",
+        "ToolTipText": "TextWhite",
+        "Text": "TextWhite",
+        "Button": "SoftVoid",
+        "ButtonText": "TextWhite",
+        "BrightText": "NeonCyan",
+        "Link": "NeonPink",
+        "Highlight": "SoftVoid",
+        "HighlightedText": "TextWhite",
+        "Light": "OverlayGrey"
+    },
+    "theme-colors": {
+        "addressColor": "CommentGrey",
+        "modifiedColor": "NeonOrange",
+        "insertedColor": "NeonGreen",
+        "notPresentColor": "OverlayGrey",
+        "selectionColor": ["~", "OverlayGrey", "DeepVoid", 60],
+        "outlineColor": "OverlayGrey",
+        
+        "backgroundHighlightDarkColor": "SoftVoid",
+        "backgroundHighlightLightColor": "SoftVoid",
+        "boldBackgroundHighlightDarkColor": "NeonPink",
+        "boldBackgroundHighlightLightColor": "NeonPink",
+        
+        "alphanumericHighlightColor": "NeonCyan",
+        "printableHighlightColor": "NeonYellow",
+        
+        "graphBackgroundDarkColor": "DeepVoid",
+        "graphBackgroundLightColor": "DeepVoid",
+        "graphNodeDarkColor": "DeepVoid",
+        "graphNodeLightColor": "DeepVoid",
+        "graphNodeOutlineColor": "OverlayGrey",
+        
+        "trueBranchColor": "NeonGreen",
+        "falseBranchColor": "AlertRed",
+        "unconditionalBranchColor": "ElectricBlue",
+        "altTrueBranchColor": "NeonCyan",
+        "altFalseBranchColor": "NeonPink",
+        "altUnconditionalBranchColor": "ElectricBlue",
+        
+        "registerColor": "NeonPink",
+        "numberColor": "NeonYellow",
+        "codeSymbolColor": "NeonGreen",
+        "dataSymbolColor": "NeonCyan",
+        "stackVariableColor": "NeonPurple",
+        "importColor": "NeonOrange",
+        
+        "instructionHighlightColor": ["~", "ElectricBlue", "DeepVoid", 40],
+        "tokenHighlightColor": "NeonOrange",
+        "annotationColor": "CommentGrey",
+        "opcodeColor": "NeonCyan",
+        
+        "linearDisassemblyFunctionHeaderColor": "SoftVoid",
+        "linearDisassemblyBlockColor": "DeepVoid",
+        "linearDisassemblyNoteColor": "SoftVoid",
+        "linearDisassemblySeparatorColor": "OverlayGrey",
+        
+        "stringColor": "NeonGreen",
+        "typeNameColor": "NeonCyan",
+        "fieldNameColor": "NeonPurple",
+        "keywordColor": "NeonPink",
+        "uncertainColor": "CommentGrey",
+        
+        "scriptConsoleOutputColor": "TextWhite",
+        "scriptConsoleErrorColor": "AlertRed",
+        "scriptConsoleEchoColor": "NeonGreen",
+        
+        "blueStandardHighlightColor": "ElectricBlue",
+        "greenStandardHighlightColor": "NeonGreen",
+        "cyanStandardHighlightColor": "NeonCyan",
+        "redStandardHighlightColor": "AlertRed",
+        "magentaStandardHighlightColor": "NeonPink",
+        "yellowStandardHighlightColor": "NeonYellow",
+        "orangeStandardHighlightColor": "NeonOrange",
+        "whiteStandardHighlightColor": "TextWhite",
+        "blackStandardHighlightColor": "DeepVoid"
+    }
+}
